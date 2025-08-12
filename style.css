@@ -31,16 +31,15 @@ html, body {
 
 .description {
     text-align: center;
-    
 
 }
 
 .description p {
-    margin: auto;
-    width:80%;
+    margin: 3vh;
+    width: 135vh;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 768px) {
 
     .description p {
         width: 80%;
@@ -108,8 +107,4 @@ html, body {
     background-color: #1B4554;
     transition: 0.15s;
 
-
 }
-
-
-
