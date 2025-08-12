@@ -31,6 +31,7 @@ html, body {
 
 .description {
     text-align: center;
+    width:80%;
 
 }
 
@@ -106,5 +107,6 @@ html, body {
 .linkedin:hover {
     background-color: #1B4554;
     transition: 0.15s;
+
 
 }
