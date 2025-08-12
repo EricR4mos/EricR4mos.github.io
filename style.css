@@ -31,13 +31,13 @@ html, body {
 
 .description {
     text-align: center;
-    width:80%;
+    
 
 }
 
 .description p {
     margin: 3vh;
-    width: 135vh;
+    width:80%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -110,3 +110,4 @@ html, body {
 
 
 }
+
